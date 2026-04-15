@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MysticSMP123.aternos.me",
-    "port": 57246,
-    "version": "",
+    "ip": "MetalDexSMP.aternos.me",
+    "port":11439,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
